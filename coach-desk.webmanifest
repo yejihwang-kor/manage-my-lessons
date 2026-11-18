@@ -1,0 +1,16 @@
+{
+  "name": "코치데스크",
+  "short_name": "코치데스크",
+  "start_url": "./coach-desk.html",
+  "display": "standalone",
+  "background_color": "#f5f6f2",
+  "theme_color": "#0b4a2d",
+  "icons": [
+    {
+      "src": "coach-desk-icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
